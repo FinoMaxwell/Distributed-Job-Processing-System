@@ -143,9 +143,5 @@ pip install -r requirements.txt
 pytest
 ```
 
-## Resume bullets (copy/paste)
 
-- Built a distributed async job processing platform using **FastAPI**, **Celery**, **Redis**, and **PostgreSQL**, containerized via **Docker Compose**.
-- Implemented **JWT authentication**, **per-user rate limiting**, **delayed job scheduling**, and **automatic retries** for failed tasks to improve reliability.
-- Added **Flower** monitoring for worker/task observability and created **Pytest** coverage for core auth + job submission workflows.
 
